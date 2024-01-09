@@ -12,7 +12,6 @@
 - Tailwind CSS
 - Context API
 - Advanced Animations with Framer Motion
-- React.Email & Resend
 - Custom React hooks
 - Fresh, modern UI design
 - Light & Dark mode
