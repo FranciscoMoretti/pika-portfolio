@@ -29,7 +29,7 @@ export default function Intro() {
           >
             <Image
               src="/profile.jpg"
-              alt="Ricardo portrait"
+              alt="Profile picture"
               width="192"
               height="192"
               quality="95"
@@ -79,8 +79,7 @@ export default function Intro() {
           href="/CV.pdf"
           download
         >
-          Download CV{" "}
-          <HiDownload className="opacity-60 transition" />
+          Download CV <HiDownload className="opacity-60 transition" />
         </a>
 
         <a

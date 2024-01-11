@@ -4,6 +4,10 @@ import project3 from "@/public/project3.jpg";
 
 // TODO: Write everything as configurable as possible here and create my own Github repo
 
+export const title = "Pikachu | Portfolio";
+export const description =
+  "Pikachu is a full-stack developer with 1 year of experience.";
+
 export const aboutText =
   "Greetings! I'm Pikachu, a passionate Pokémon developer with a background in battling and a degree in Pokémon Studies. After mastering my Electric-type moves, I decided to spark a new journey in the world of coding. Transitioning from Thunderbolt to TypeScript, I completed an intensive coding bootcamp, specializing in full-stack web development using React, Node.js, and MongoDB.";
 
